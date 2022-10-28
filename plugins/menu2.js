@@ -322,7 +322,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 `
 const listMessage = {
   text: tek,
-  footer: '*Silence BOT~*',
+  footer: '𝙍𝙪𝙡𝙡𝘽𝙊𝙏 𝗫 ©ᵂʰʸᶻᶻˣʸᵀᵉᵃᵐ',
   mentions: await conn.parseMention(tek),
   title: ``,
   buttonText: `Click Here ᐢ..ᐢ`,

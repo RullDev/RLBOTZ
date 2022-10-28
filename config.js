@@ -33,25 +33,25 @@ let witah = moment.tz('Asia/Jakarta').format('HH')
     
 /*⫘⫘⫘⫘⫘ MEDIA SOSIAL ⫘⫘⫘⫘*/
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/eabdalmufid_'
-global.sgh = 'https://github.com/'
-global.sgc = 'https://chat.whatsapp.com/I2OK9w2mkIpKngLpFs0i93'
+global.sig = 'https://instagram.com/khoirul36_'
+global.sgh = 'https://github.com/RullDev'
+global.sgc = 'https://chat.whatsapp.com/D2NUDa6vk4I6hrS176mErV'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '17788199399'
-global.nomorown = '19047502362' //Dave
-global.adminn = '19047502362' //Dave //JANGAN DI GANTI BAGIAN INI KARNA ADA DI CREATOR, CREATOR2 & CREATOR3
-global.admin = '6287734910547' //Alvin /INI LAGI
-global.admin2 = '6288990007937' //Ahmad //INI JUGA
-global.namebot = 'Silence BOT'
-global.nameown = 'Kanna Chan'
+global.nomorbot = '6287753812675'
+global.nomorown = '6287753812675' //Dave
+global.adminn = '6287753812675' //Dave //JANGAN DI GANTI BAGIAN INI KARNA ADA DI CREATOR, CREATOR2 & CREATOR3
+global.admin = '6287753812675' //Alvin /INI LAGI
+global.admin2 = '62887753812675' //Ahmad //INI JUGA
+global.namebot = '𝙍𝙪𝙡𝙡𝘽𝙊𝙏'
+global.nameown = 'Rull Senpai'
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['19047502362'],
-  ['19047502362', 'Dve', true]
+  ['6287753812675'],
+  ['19047502362', 'Dve', false]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,11 +99,11 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = 'SilenceBOT' //Main Watermark
-global.wm2 = 'AngekDark~'
-global.wm3 = '❁ Silence'
-global.botdate = `⫹⫺ Date : ${week} ${date}`
-global.bottime = `Time : ${wktuwib}`
+global.wm = 'RulBOT' //Main Watermark
+global.wm2 = 'KhrlMstfa~'
+global.wm3 = '❁ Rull'
+global.botdate = `⫹⫺ Tanggal : ${week} ${date}`
+global.bottime = `Waktu : ${wktuwib}`
 global.titlebot = '🌱 𝙍𝙋𝙂 | Whatsapp Bot'
 global.author = '©ADA-MD'
 
@@ -118,7 +118,7 @@ global.thumbbc = 'https://telegra.ph/file/5fa7fcb5225c85f1cab25.jpg' //For broad
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*⫘⫘⫘⫘ LOADING ⫘⫘⫘⫘⫘*/
-global.wait = '```[ ! ] Wait....```'
+global.wait = '```[ ! ] Loading....```'
 global.eror = '*Akses Ditolak!!*'
 
 /*⫘⫘⫘⫘ DOCUMENT ⫘⫘⫘⫘⫘*/
@@ -144,7 +144,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
 global.stickpack = '© By'
-global.stickauth = `AngelDark~`
+global.stickauth = `RullBot~`
 global.multiplier = 100 // The higher, The harder levelup
 
 /*⫘⫘⫘⫘ GLOBAL EMOJI ⫘⫘⫘⫘⫘*/

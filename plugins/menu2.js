@@ -204,7 +204,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
       let c1 = `*〕•━────┐*`
       let c2 = `*│⌬*`
       let c3 = `*╰───···─────*❁\n`
-      let c4 = `\n*AngelDark~*\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     `
+      let c4 = `\n*KhrlMstfa~*\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     `
       
       // LOGO L P
       let lprem = global.lopr
@@ -224,12 +224,12 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
    {
 	title: `━━━━━━▢ ▮𝗦𝘁𝗮𝘁𝘂𝘀 」 ▢━━━━━━`,
 	rows: [
-	    {title: `• Info Bot`, rowId: ".info", description: "Info nya SilenceBOT >_<"},
+	    {title: `• Info Bot`, rowId: ".info", description: "Info nya 𝙍𝙪𝙡𝙡𝘽𝙊𝙏 >_<"},
 	    {title: `• Owner`, rowId: ".owner", description: "Ini Room Developer ku ^_^"},
 	{title: `• Nomor Owner`, rowId: ".ownerr", description: "Ini nomor para owner •_•"},
-	{title: `• Bot Stats`, rowId: ".botinfo", description: "Menampilkan Status Silence BOT"},
-	{title: `• Test Speed`, rowId: ".testspeed", description: "Test kecepatan Silence BOT"},
-	{title: `• Speed`, rowId: ".speed", description: "Kecepatan Respon Silence BOT..."},
+	{title: `• Bot Stats`, rowId: ".botinfo", description: "Menampilkan Status 𝙍𝙪𝙡𝙡𝘽𝙊𝙏"},
+	{title: `• Test Speed`, rowId: ".testspeed", description: "Test kecepatan 𝙍𝙪𝙡𝙡𝘽𝙊𝙏"},
+	{title: `• Speed`, rowId: ".speed", description: "Kecepatan Respon 𝙍𝙪𝙡𝙡𝘽𝙊𝙏..."},
 	]
     },{
 	title: `━━━━━━▢ ▮𝗠𝗲𝗻𝘂 」 ▢━━━━━━`,
@@ -296,7 +296,7 @@ Patuhi Setiap Rules agar tidak di banned BOT...
 *𖥂* 🅟 = *Premium*
 *𖥂* 🅛 = *Limit*
 
-*▢═════〔 llı USER ıll 〕═════▢*
+*▢═════〔 llı PENGGUNA ıll 〕═════▢*
 *𖥂* Name : ${usrs.registered ? usrs.name : conn.getName(m.sender)}
 *𖥂* Tags : @${m.sender.split`@`[0]}
 *𖥂* Status : *${m.sender.split`@`[0] == nomorown ? 'Developer' : (usrs.premiumTime >= 1 ? 'Premium User' : 'Free User')}*
@@ -307,9 +307,9 @@ Patuhi Setiap Rules agar tidak di banned BOT...
 *𖥂* Expired Premium : 
 ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 
-*▢═════〔 llı BOTZ ıll 〕═════▢*
+*▢═════〔 llı INFO BOT ıll 〕═════▢*
 *𖤓* Uptime : *${mpt}*
-*𖤓* Admin : *AngelDark*
+*𖤓* Admin : *Rull Senpai*
 *𖤓* Size Session : *${megabit()} MB*
 *𖤓* Users : *${Object.keys(global.db.data.users).length}*
 *𖤓* Register : *${Object.keys(global.db.data.users).length}*

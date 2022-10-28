@@ -2,9 +2,9 @@ let handler = async (m, { conn }) => {
 let info = `
 ━━━━━━▢ *RULES* ▢━━━━━━
 
-Baca Rulesnya ya kak😃
+Baca Rulesnya ya kak😫🗿
 
-©2022 SilenceBOT Official 
+©2022 RullBOT Official 
 `
 const sections = [
    {

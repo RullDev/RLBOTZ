@@ -10,7 +10,7 @@ const anu = {
                         },
        message: {
                     documentMessage: {
-                    title: 'DaveKgw', 
+                    title: 'RullSenpai', 
                     jpegThumbnail: './thumbnail.jpg'
                           }
                         }

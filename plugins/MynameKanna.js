@@ -3,7 +3,7 @@ let info = `
      Ini Nama Pembuat BOT
 `.trim()
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '🔥Abdul Mufid🔥', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '🔥KhoirulMustofa🔥', 'status@broadcast')
 }
 handler.command = /^(nameowner)$/i
 handler.owner = false

@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `━━━━━━▢ *TUTORIAL* ▢━━━━━━
 
 *📮 Command Termux:*
-Command termux SmileyBotz
+Command termux RullBot
 ⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬⏬
 
 

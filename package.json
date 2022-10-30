@@ -1,6 +1,6 @@
 {
     "name": "SilenceBOT",
-    "version": "2.1.20",
+    "version": "2.2.0",
     "description": "RPG WhatsApp BOT",
     "main": "index.js",
     "type": "module",
